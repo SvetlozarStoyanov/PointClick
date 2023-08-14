@@ -3,7 +3,6 @@ C:\Users\User\source\repos\PointClick\PointClick\bin\Debug\net6.0-windows\PointC
 C:\Users\User\source\repos\PointClick\PointClick\bin\Debug\net6.0-windows\PointClick.runtimeconfig.json
 C:\Users\User\source\repos\PointClick\PointClick\bin\Debug\net6.0-windows\PointClick.dll
 C:\Users\User\source\repos\PointClick\PointClick\bin\Debug\net6.0-windows\PointClick.pdb
-C:\Users\User\source\repos\PointClick\PointClick\obj\Debug\net6.0-windows\PointClick.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\PointClick\PointClick\obj\Debug\net6.0-windows\PointClick.Form1.resources
 C:\Users\User\source\repos\PointClick\PointClick\obj\Debug\net6.0-windows\PointClick.csproj.GenerateResource.cache
 C:\Users\User\source\repos\PointClick\PointClick\obj\Debug\net6.0-windows\PointClick.GeneratedMSBuildEditorConfig.editorconfig
